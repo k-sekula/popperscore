@@ -1,6 +1,6 @@
 # Popperscore
 
-Poppers is a web API for handling user registration, login, sending text messages and file attachments. It uses an Express framework and a MongoDB database for storage. This API is intended to be used with the PoppersChat mobile app, which is about to be released soon.
+Popperscore is a web API for handling user registration, login, sending text messages and file attachments. It uses an Express framework and a MongoDB database for storage. This API is intended to be used with the PoppersChat mobile app, which is about to be released soon.
 
 ## Prerequisites
 
